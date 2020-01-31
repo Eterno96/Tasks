@@ -1,0 +1,26 @@
+{
+    "-Lwgvw4ZOohR3_5ViUdF": {
+        "angler": "Antonio Banders",
+        "bait": "small fish",
+        "captureTime": "180",
+        "location": "Gulf of Mexico",
+        "species": "Tuna",
+        "weight": "285"
+    },
+    "-Ly_zqQQkUxM6oOaBmAO": {
+        "angler": "Pesho",
+        "bait": "Extremely New BA!T",
+        "captureTime": "21",
+        "location": "Koprinka Lake",
+        "species": "Extreme angler ",
+        "weight": "18"
+    },
+    "-Lyny6nRLHeVM8m63ujp": {
+        "angler": "Sasho Rapa",
+        "bait": "demBars",
+        "captureTime": "22",
+        "location": "neide",
+        "species": "obuvka",
+        "weight": "5"
+    }
+}
